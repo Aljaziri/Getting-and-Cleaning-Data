@@ -7,3 +7,4 @@ https://github.com/Aljaziri/Getting-and-Cleaning-Data2
 
 [run_analysis.R](https://github.com/Aljaziri/Getting-and-Cleaning-Data2/blob/master/run_analysis.R)
 
+[Code Book](https://github.com/Aljaziri/Getting-and-Cleaning-Data2/blob/master/CodeBook.MD)
