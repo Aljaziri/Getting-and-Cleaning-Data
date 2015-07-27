@@ -1,4 +1,4 @@
-## Dear Peer reviewer
+## Dear Peer Evaluator
 
 In the last minutes of submitting the project I had problem between this repo and my GitHub Windows client
 
